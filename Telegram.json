@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "show_after": "2025-03-20",
-  "force_update": false,
+  "force_update": true,
   "title": "Update Available",
   "message": "A new version is ready. Please update for best experience.join my chanel for more @androidmod_ar",
   "link_text": "See details",
