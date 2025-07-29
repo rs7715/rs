@@ -2,7 +2,7 @@
   "autoShowEnabled": true,
   "autoShowType": "info",
   "success": { "enabled": true, "message": "Developed By Ali https://t.me/androidmod_ar!", "duration": 2000 },
-  "error":   { "enabled": true, "message": "Oops error!", "duration": 3000 },
-  "warning": { "enabled": true, "message": "Careful!", "duration": 2500 },
-  "info":    { "enabled": true, "message": "Heads up!", "duration": 1800 }
+  "error":   { "enabled": false, "message": "Oops error!", "duration": 3000 },
+  "warning": { "enabled": false, "message": "Careful!", "duration": 2500 },
+  "info":    { "enabled": false, "message": "Heads up!", "duration": 1800 }
 }
