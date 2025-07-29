@@ -1,8 +1,8 @@
 {
   "autoShowEnabled": true,
-  "autoShowType": "info",
-  "success": { "enabled": true, "message": "!💎T.me/rakanalshrmany💎!", "duration": 2000 },
-  "error":   { "enabled": true, "message": "", "duration": 3000 },
-  "warning": { "enabled": true, "message": "", "duration": 2500 },
-  "info":    { "enabled": true, "message": "", "duration": 1800 }
+  "autoShowType": "success",
+  "success": { "enabled": true, "message": "💎T.me/rakanalshrmany💎", "duration": 2000 },
+  "error":   { "enabled": true, "message": "Oops error!", "duration": 3000 },
+  "warning": { "enabled": true, "message": "Careful!", "duration": 2500 },
+  "info":    { "enabled": true, "message": "Heads up!", "duration": 1800 }
 }
