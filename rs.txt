@@ -1,23 +1,40 @@
 {
-  "Gold": {
-    "update_code": "3",
-    "reminder_time": "3",
-    "update_version": "v9.10",
-    "com.instagram.android": "https://instagold.download/update",
-    "com.RSInsta.android": "https://instagold.download/update",
-    "update_message": "
-<p>Update Vطھط­ط¯ظٹط« 9.10</p>
-<li>ط§ظ„طھط­ط¯ظٹط« ظ„ظ†ط³ط®ط© ط§ظ„ظ…ط§ط±ظƒطھ 325.0.0.35.91</li>
-<li>ط¥طµظ„ط§ط­ ظ…ط´ظƒظ„ط© ط§ظ„ط§ظ†ظ‡ظٹط§ط± ط¹ظ†ط¯ ظپطھط­ ط¯ط±ط¯ط´ط§طھ ط¬ظ…ط§ط¹ظٹظ‡</li>
-<li>ط¥طµظ„ط§ط­ ظ…ظƒط§ظ† ط²ط± ط§ظ„ط§ط±ط³ط§ظ„</li>
-<li>ط¥طµظ„ط§ط­ ظ…ط´ظƒظ„ط© ط¹ظ†ط¯ طھط­ظ…ظٹظ„ ط§ظ„ظپظٹط¯ظٹظˆظ‡ط§طھ ظٹط¸ظ‡ط± ط§ظ†ظ‡ط§ ط؛ظٹط± ظ…ط¯ط¹ظˆظ…ظ‡</li>
-<li>ط¥طµظ„ط§ط­ط§طھ ط§ط®ط±ظ‰</li>
-
-<li>Base Update: 325.0.0.35.91</li>
-<li>Fixed Crash problem when opening group chats</li>
-<li>Fixed Location of the Send button</li>
-<li>Fixed Problem when downloading videos shows that they are not supported</li>
-<li>Other fixes</li>
-"
+  "title": "Bad 888™",
+  "subtitle": "Developed by Ansari",
+  "dialog_background_color": "#252F30",
+  "avatar_url": "https://i.ibb.co/DDD2Jp0N/x.jpg",
+  "description": "Modified\n1 by @Badboy — Stay updated with the latest modded apps and games. Join my OFFICIAL TELEGRAM CHANNEL for safe and free downloads. 💯",
+  "icons": {
+    "telegram": {
+      "link": "https://t.me/your_channel"
+    },
+    "instagram": {
+      "link": "https://instagram.com/your_profile"
+    },
+    "youtube": {
+      "link": "https://youtube.com/your_channel"
     }
+  },
+  "buttons": {
+    "cancel_button": {
+      "text": "Dismiss",
+      "color": "#3A4A4B",
+      "text_color": "#FFFFFF",
+      "enabled": true
+    },
+    "update_button": {
+      "text": "badbku",
+      "color": "#00BFFF",
+      "text_color": "#FFFFFF",
+      "enabled": true,
+      "link": "https://example.com/update"
+    },
+    "join_telegram_button": {
+      "text": "Join Telegram",
+      "color": "#00BFFF",
+      "text_color": "#FFFFFF",
+      "enabled": true,
+      "link": "https://t.me/your_channel"
+    }
+  }
 }
