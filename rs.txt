@@ -1,40 +1,28 @@
 {
-  "title": "Bad 888™",
-  "subtitle": "Developed by Ansari",
-  "dialog_background_color": "#252F30",
-  "avatar_url": "https://i.ibb.co/DDD2Jp0N/x.jpg",
-  "description": "Modified\n1 by @Badboy — Stay updated with the latest modded apps and games. Join my OFFICIAL TELEGRAM CHANNEL for safe and free downloads. 💯",
-  "icons": {
-    "telegram": {
-      "link": "https://t.me/your_channel"
-    },
-    "instagram": {
-      "link": "https://instagram.com/your_profile"
-    },
-    "youtube": {
-      "link": "https://youtube.com/your_channel"
-    }
-  },
-  "buttons": {
-    "cancel_button": {
-      "text": "Dismiss",
-      "color": "#3A4A4B",
-      "text_color": "#FFFFFF",
-      "enabled": true
-    },
-    "update_button": {
-      "text": "badbku",
-      "color": "#00BFFF",
-      "text_color": "#FFFFFF",
-      "enabled": true,
-      "link": "https://example.com/update"
-    },
-    "join_telegram_button": {
-      "text": "Join Telegram",
-      "color": "#00BFFF",
-      "text_color": "#FFFFFF",
-      "enabled": true,
-      "link": "https://t.me/your_channel"
-    }
+  "dialogConfig": {
+    "enabled": true,
+    "version": "4.0.2",
+    "mandatory": true,
+    "update_url": "https://t.me/androidmod_ar",
+    "title": "Update Availablr!",
+    "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
+    "socialLinks": [
+      {
+        "name": "facebook",
+        "url": "https://t.me/androidmod_ar"
+      },
+      {
+        "name": "twitter",
+        "url": "https://t.me/androidmod_ar"
+      },
+      {
+        "name": "instagram",
+        "url": "https://t.me/androidmod_ar"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://t.me/androidmod_ar"
+      }
+    ]
   }
 }
