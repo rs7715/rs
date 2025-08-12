@@ -1,7 +1,7 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "version": "4.0.2",
+    "version": "4.0.1",
     "mandatory": false,
     "update_url": "https://t.me/androidmod_ar",
     "title": "Update Availablr!",
@@ -9,19 +9,19 @@
     "socialLinks": [
       {
         "name": "facebook",
-        "url": "https://t.me/androidmod_ar"
+        "url": "https://t.me/androidmod_ar1"
       },
       {
         "name": "twitter",
-        "url": "https://t.me/androidmod_ar"
+        "url": "https://t.me/androidmod_ar2"
       },
       {
         "name": "instagram",
-        "url": "https://t.me/androidmod_ar"
+        "url": "https://t.me/androidmod_ar3"
       },
       {
         "name": "linkedin",
-        "url": "https://t.me/androidmod_ar"
+        "url": "https://t.me/androidmod_ar4"
       }
     ]
   }
