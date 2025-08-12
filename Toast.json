@@ -1,5 +1,5 @@
 {
-  "autoShowEnabled": true,
+  "autoShowEnabled": false,
   "autoShowType": "success",
   "success": { "enabled": true, "message": "Modded By @rakanalshrmany", "duration": 2000 },
   "error":   { "enabled": true, "message": "Oops error!", "duration": 3000 },
