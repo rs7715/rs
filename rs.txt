@@ -1,7 +1,7 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "version": "4.0.1",
+    "version": "4.0.2",
     "mandatory": false,
     "update_url": "https://t.me/androidmod_ar",
     "title": "Update Availablr!",
