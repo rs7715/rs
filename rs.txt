@@ -1,9 +1,9 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "version": "4.0.2",
+    "version": "4.0.3",
     "mandatory": false
-    "update_url": "https://t.me/androidmod_ar",
+    "update_url": "https://t.me/rakanalshrmany",
     "title": "Update Availablr!",
     "message": "A new version of the app has been released. Please update now to take advantage of the new features. ",
     "socialLinks": [
