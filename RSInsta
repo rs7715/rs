@@ -1,8 +1,10 @@
 {
-  "ver_code": 4,
-  "title": "تحديث متوفر!",
-  "msg": "يوجد إصدار جديد، يرجى التحديث الآن.",
+  "ver": 2,
+  "title": "تحديث جديد",
+  "msg": "نسخة راكان الجديدة متوفرة الآن",
   "btn_ok": "تحميل الآن",
   "btn_no": "لاحقاً",
-  "dli":"https://an2rakan.blogspot.com/p/anwa.html"
+  "btn_tg": "قناة التيليجرام",
+  "link": "https://google.com/download",
+  "tg_link": "https://t.me/rakan_mods"
 }
