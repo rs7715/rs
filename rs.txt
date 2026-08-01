@@ -1,22 +1,10 @@
 {
-  "enabled": true,
-  "title": "مرحب متابعينا ❤",
-  "message": "يرجى متابعتنا على انستقرام",
-  "style": "bigtext",
-"lines": ["رسالة ١", "", ""],
-  "sound": true,
-  "vibrate": true,
-  "expires": "2026-08-01T8:08:00",
-  "image": "http://alo0osh-sy.yn.lt/images/-.jpg",
-  "actions": [
-    {
-      "title": "فتح",
-      "url": "https://t.me/s/rakanalshrmany"
-    },
-    {
-      "title": "تجاهل"
-    }
-  ]
+  "ver": 1,
+  "title": "تحديث جديد لـ إنستا راكان V5.20",
+    "msg": "📦 تحديث قاعدة انستقرام إلى الإصدار 421.0.0.51.66\n🚀 إضافة جميع ميزات انستقرام الجديدة\n🔤 إضافة المزيد من الخطوط الجديدة\n🎙 إضافة ميزة تغيير الصوت\n📥 إضافة سجل التنزيلات\n📞 إصلاح مشكلة الاتصال وظهور رسالة: \"لم يعد هذا الإصدار من Instagram يدعم ميزة الاتصال\"\n🎬 إصلاح مشكلة تقطع فيديوهات الريلز\n🚀 إصلاح مشاكل التعتيم في بعض الفيديوهات\n🛠 إصلاحات وتحسينات كثيرة في الأداء والاستقرار",
+  "btn_ok": "تحميل الآن",
+  "btn_no": "لاحقاً",
+  "btn_tg": "تحميل من التيليجرام",
+  "link": "https://an2rakan.blogspot.com/2023/01/instagram-rakan.html",
+  "tg_link": "https://t.me/rakanalshrmany/3313"
 }
-
-// StyleType: bigtext|bigpicture|inbox
