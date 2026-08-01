@@ -1,20 +1,22 @@
 {
   "enabled": true,
-  "title": "تنبيه جديد",
-  "message": "aaa",
-  "style": "inbox",
-"lines": ["رسالة ١", "رسالة ٢", "مرحبا ٣"],
+  "title": "مرحب متابعينا ❤",
+  "message": "يرجى متابعتنا على انستقرام",
+  "style": "bigtext",
+"lines": ["رسالة ١", "", ""],
   "sound": true,
   "vibrate": true,
-  "expires": "2026-08-01T7:57:58",
+  "expires": "2026-08-01T8:05:00",
   "image": "http://alo0osh-sy.yn.lt/images/-.jpg",
   "actions": [
     {
       "title": "فتح",
-      "url": "https://t.me/rakanalshrmany"
+      "url": "https://t.me/s/rakanalshrmany"
     },
     {
       "title": "تجاهل"
     }
   ]
 }
+
+// StyleType: bigtext|bigpicture|inbox
