@@ -6,7 +6,7 @@
 "lines": ["رسالة ١", "", ""],
   "sound": true,
   "vibrate": true,
-  "expires": "2026-08-01T8:06:00",
+  "expires": "2026-08-01T8:08:00",
   "image": "http://alo0osh-sy.yn.lt/images/-.jpg",
   "actions": [
     {
