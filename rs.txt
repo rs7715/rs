@@ -1,10 +1,18 @@
 {
-  "ver": 1,
-  "title": "تحديث جديد لـ إنستا راكان V5.20",
-    "msg": "📦 تحديث قاعدة انستقرام إلى الإصدار 421.0.0.51.66\n🚀 إضافة جميع ميزات انستقرام الجديدة\n🔤 إضافة المزيد من الخطوط الجديدة\n🎙 إضافة ميزة تغيير الصوت\n📥 إضافة سجل التنزيلات\n📞 إصلاح مشكلة الاتصال وظهور رسالة: \"لم يعد هذا الإصدار من Instagram يدعم ميزة الاتصال\"\n🎬 إصلاح مشكلة تقطع فيديوهات الريلز\n🚀 إصلاح مشاكل التعتيم في بعض الفيديوهات\n🛠 إصلاحات وتحسينات كثيرة في الأداء والاستقرار",
+  "ver": 3,
+  "title": "تحديث جديد",
+  "msg": "نسخة راكان الجديدة متوفرة الآن",
   "btn_ok": "تحميل الآن",
-  "btn_no": "لاحقاً",
-  "btn_tg": "تحميل من التيليجرام",
-  "link": "https://an2rakan.blogspot.com/2023/01/instagram-rakan.html",
-  "tg_link": "https://t.me/rakanalshrmany/3313"
+  "btn_no": "راكان",
+  "btn_tg": "جوجل",
+  "link": "https://google.com/download",
+  "tg_link": "https://google.com",
+  "icon_url": "https://static2.tgstat.ru/channels/_0/11/113ecdff2ceb07cc7a9d569e6d9cac1b.jpg",
+  "not_link":
+"https://www.instagram.com/rakanalshrmany",
+  "enabled": true,
+  "expires": "2026-08-04T22:00:00",
+  "show_toast": 0,
+  "show_dialog": 0,
+  "toast_msg": "تحديث جديد متوفر الآن 🚀"
 }
