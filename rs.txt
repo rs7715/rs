@@ -3,7 +3,7 @@
   "title": "تحديث جديد",
   "msg": "نسخة راكان الجديدة متوفرة الآن",
   "btn_ok": "تحميل الآن",
-  "btn_no": "راكان",
+  "btn_no": "لاحقاً",
   "btn_tg": "جوجل",
   "link": "https://google.com/download",
   "tg_link": "https://google.com",
@@ -11,8 +11,8 @@
   "not_link":
 "https://www.instagram.com/rakanalshrmany",
   "enabled": true,
-  "expires": "2026-08-04T22:00:00",
-  "show_toast": 0,
-  "show_dialog": 0,
+  "expires": "2026-08-21T8:42:00",
+  "show_toast": 1,
+  "show_dialog": 1,
   "toast_msg": "تحديث جديد متوفر الآن 🚀"
 }
