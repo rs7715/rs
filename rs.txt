@@ -12,7 +12,7 @@
 "https://www.instagram.com/rakanalshrmany",
   "enabled": true,
   "expires": "2026-08-21T8:42:00",
-  "show_toast": 1,
-  "show_dialog": 1,
+  "show_toast": 0,
+  "show_dialog": 0,
   "toast_msg": "تحديث جديد متوفر الآن 🚀"
 }
