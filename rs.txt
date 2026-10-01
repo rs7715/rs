@@ -1,5 +1,5 @@
 {
-  "ver": 1,
+  "ver": 0,
   "title": "راكان للشروحات ",
   "subtitle": "rakanalshrmany🫰🏻",
   "msg": "انضم إلى قناتنا للحصول على آخر التطبيقات المعدلة والألعاب المهكرة والنسخ",
@@ -8,7 +8,7 @@
   "btn_secondary": " إنستغرام",
   "btn_secondary_link": "https://instagram.com/rakanalshrmany",
   "btn_hide": "لاحقا",
-  "show_toast": true,
+  "show_toast": false,
   "toast_msg": "Modded By @rakanalshrmany",
   "maintenance": false,
   "maint_title": "قيد الصيانة",
